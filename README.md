@@ -1,6 +1,6 @@
 ### Welcome on my Profile!
 
-(https://media.discordapp.net/attachments/921159547022884874/921159588374511706/Banner.png?width=1440&height=276)
+![I am GitHub Readme Generator's creator](https://media.discordapp.net/attachments/921159547022884874/921159588374511706/Banner.png?width=1440&height=276)
 
 
 <!--
