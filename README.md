@@ -1,6 +1,6 @@
 ### Welcome on my Profile!
 
-![ChronoShaper's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChronoShaper&show_icons=true&theme=synthwave)
+![ChronoShaper's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChronoShaper&show_icons=true&theme=merko)
 
 
 <!--
