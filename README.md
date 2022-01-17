@@ -6,7 +6,7 @@
 I'm Leonardo Ulino, 17 y.o.
 I like making websites, simple apps and coding in general.
 
-With my team I won the Italian EU Codeweek hackathon and ranked 3rd in the european finals.
+With my team, I won the Italian EU Codeweek hackathon and ranked 3rd in the european finals.
 
 <h2>🛠 Languages and tools 🛠</h2>
 <div>
