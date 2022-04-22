@@ -1,7 +1,7 @@
 ![I am GitHub Readme Generator's creator](https://media.discordapp.net/attachments/921159547022884874/921159588374511706/Banner.png?width=1440&height=276)
 
 
-![ChronoShaper's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tecnez&show_icons=true&theme=merko)
+![ChronoShaper's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoUlino&show_icons=true&theme=merko)
 
 I'm Leonardo Ulino, 17 y.o.
 I like making websites, simple apps and coding in general.
